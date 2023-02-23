@@ -1,1 +1,1 @@
-# KNN-classifier
+# KNN-algorithm
